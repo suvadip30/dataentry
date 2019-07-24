@@ -1,0 +1,11 @@
+Flat / Shop No.		Building	263
+Road / Street	305 ROAD 2831	Block	1203
+Town	MADINAT HAMAD / مدينة حمد	P.O. Box	
+--
+Flat / Shop No.	0	Building	ا1273
+Road / Street	1325 ROAD 1325	Block	713
+Town	TUBLI / توبلي	P.O. Box	
+--
+Flat / Shop No.	0	Building	ب1273
+Road / Street	1325 ROAD 1325	Block	713
+Town	TUBLI / توبلي	P.O. Box	
