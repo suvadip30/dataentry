@@ -264,3 +264,133 @@ Branch	Branch Name	Status	Due Date
 2673-1	East Ceramica WLL	ACTIVE	13/02/2020
 2673-2	EAST CERAMICA	ACTIVE	13/02/2020
 2673-3	AL RADHI TRAVEL
+
+ blis_intLogo
+About Sijilat ?  Sign In     
+Search.
+      
+Public Service
+Commercial Registration
+Agency Registration
+Other Registrations
+Other Service
+All
+Public Service
+Search CR
+Search AR
+Search Activities
+CR Renewal
+Revive CR Deleted by Law
+CR Activity Renewal
+BCCI Renewal/Registration
+Service Providers Directory
+Information Request
+Complaint / Suggestion
+News
+Enterprise Search
+Disclaimer
+CR E. Publication
+Abbreviation
+FAQ
+Profiler
+Contact Us
+Commercial Registration Information
+Basic Information                
+CR No.	2673-2
+Commercial Name (Arabic)	سيراميك الشرق
+Commercial Name (English)	EAST CERAMICA
+Group Company Name (Arabic)	متجر اصباغ الشرق
+Group Company Name (English)	EAST PAINTS STORE
+Company Information
+Country	Bahrain	Company Type	With Limited Liability Company
+Status	ACTIVE	Nationality	BAHRAINI
+Registration Date	13/02/1986	Expiry Date	13/02/2020
+Company Period	N/A	Financial Year End	31/12
+Permission Status	NOT 24 HOURS
+Condition	NOT AVAILABLE
+BCCI Issue Date	24/02/1987	BCCI Expire Date	13/02/2020
+Commercial Address
+View Address in Map
+Flat / Shop No.	0	Building	ب1273
+Road / Street	1325 ROAD 1325	Block	713
+Town	TUBLI / توبلي	P.O. Box	
+Email	hkradhi@gmail.com	Mobile No.	( +973 ) 39690805
+Phone No.	( +973 ) 17402990	Fax No.	( +973 ) 17402880
+Online address	
+Business Activities 
+ISIC4 Code	Business Description	Sufficient Fund
+4663	Sale/Trade of construction materials, hardware, plumbing and heating equipment and supplies	   Not Applicable
+Amendment History
+More
+Amendment Date	Operation
+16/01/2019	RENEWAL
+26/08/2017	RENEWAL
+20/10/2016	RENEWAL
+28/10/2015	RENEWAL
+06/01/2015	RENEWAL
+Inspections
+More
+Inspection No.	Inspection Date	Inspection Type
+2016081260		UPON REQUEST INSPECTION
+2019046168	02/07/2019	ADD VIOLATION INSPECTION
+2018043673	06/09/2018	UPON REQUEST INSPECTION
+2017086812	10/09/2017	UPON REQUEST INSPECTION
+2017067450	19/07/2017	UPON REQUEST INSPECTION
+Company Capital Details
+Total number 
+of Shares	800	Nominal Value
+of Each Share	100.000
+Local Investment	80,000.000	GCC Investment	
+Foreign Investment		Currency	Bahrain Dinar
+Paid-up
+Capital	a. In Cash	80,000.000	Actual Paid Up	
+b. In Kind	
+Description
+(In Kind)	
+Shareholders and Partners
+Name (Arabic)	Name (English)	Nationality	Number of Shares	Ownership (%)	Mortgager Status	Sequester Status	Ultimate Beneficial Owner
+عبدالحكيم رضي علي احمد	ABDULHAKEEM RADHI ALI AHMED	BAHRAINI	100	12.50			
+عادل رضي علي احمد	ADEL RADHI ALI AHMED	BAHRAINI	100	12.50			
+علي رضي علي احمد	ALI RADHI ALI AHMED	BAHRAINI	100	12.50			
+غنيه رضي علي احمد	GHANEYA RADHI ALI AHMED	BAHRAINI	50	6.25			
+حسن رضي علي احمد	HASAN RADHI ALI AHMED	BAHRAINI	100	12.50			
+اقبال رضي علي احمد	IQBAL RADHI ALI AHMED	BAHRAINI	50	6.25			
+جميله رضي علي احمد	JAMEELA RADHI ALI AHMED	BAHRAINI	50	6.25			
+ماجده رضي علي احمد	MAJEDA RADHI ALI AHMED	BAHRAINI	50	6.25			
+سعيد رضي علي احمد	SAEED RADHI ALI AHMED	BAHRAINI	100	12.50			
+صفيه رضي علي احمد	SAFIYA RADHI ALI AHMED	BAHRAINI	50	6.25			
+سلوى رضي علي احمد	SALWA RADHI ALI AHMED	BAHRAINI	50	6.25			
+Authorized Signatories
+Name (Arabic)	Name (English)	Nationality	Authority Level
+عبدالحكيم رضي علي احمد	ABDULHAKEEM RADHI ALI AHMED	BAHRAINI	Solely
+حسن رضي علي احمد	HASAN RADHI ALI AHMED	BAHRAINI	Solely
+سعيد رضي علي احمد	SAEED RADHI ALI AHMED	BAHRAINI	Solely
+Board of Directors
+Name (Arabic)	Name (English)	Nationality	Position
+عبدالحكيم رضي علي احمد	ABDULHAKEEM RADHI ALI AHMED	BAHRAINI	
+حسن رضي علي احمد	HASAN RADHI ALI AHMED	BAHRAINI	
+سعيد رضي علي احمد	SAEED RADHI ALI AHMED	BAHRAINI	
+Ultimate Beneficial Owner Information (one representative person for entire company) 
+Name (Arabic)	Name (English)	Nationality
+No Data Found
+Mortgage for Branches Details
+Application No.	Application Date	Mortgate Date	Mortgage Offering No.	Applicant	Mortgaged	Status
+No Data Found
+Sequester Details
+Application No.	Application Date	Court Date	Court No.	Applicant Name	Execution No.	For	Status
+No Data Found
+Custodianship Details
+Application No.	Application Date	Court Date	Court No.	Judge Name	Execution No.	Status
+No Data Found
+Branches
+Branch	Branch Name	Status	Due Date
+2673-1	East Ceramica WLL	ACTIVE	13/02/2020
+2673-2	EAST CERAMICA	ACTIVE	13/02/2020
+2673-3	AL RADHI TRAVEL	SOLD OR LEGAL STATUS CHANGED	24/01/1990
+2673-4	EAST CERAMICA	ACTIVE	18/10/2020
+2673-5	AL TAAWIN TAIL	DELETED WITH PAYMENT	18/04/2004
+2673-6	east cermica	ACTIVE	25/09/2020
+2673-7	East Ceramica W.L.L	ACTIVE	14/04/2020
+ 
+help desk software
+ⓒ 2016 SIJILAT
